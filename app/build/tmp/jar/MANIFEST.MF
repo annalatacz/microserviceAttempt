@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: app
+Implementation-Version: unspecified
+Main-Class: sampleproject.TimerApp
+
